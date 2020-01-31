@@ -1,0 +1,14 @@
+# 回归模型 
+
+##  线性回归模型
+### 正则化解决过拟合问题
+$$J(\theta)=-\left[\frac{1}{m} \sum_{i=1}^{m} y^{(i)} \log h_{\theta}\left(x^{(i)}\right)+\left(1-y^{(i)}\right) \log \left(1-h_{\theta}\left(x^{(i)}\right)\right)\right]$$
+
+###  应用场景
+
+
+# 神经网络模型 
+##  BP神经网络
+BP(back propagation)神经网络是1986年由Rumelhart和McClelland为首的科学家提出的概念，是一种按照误差逆向传播算法训练的多层前馈神经网络，是应用最广泛的神经网络
+
+##  卷积神经网络
