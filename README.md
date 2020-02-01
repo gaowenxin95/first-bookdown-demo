@@ -4,9 +4,10 @@
 https://github.com/gaowenxin95/first-bookdown-demo/tree/master/CBook
 
 - 在demo-book项目里面也有展示的样本，可以看下，挺好玩的，以后可以记录啦，哈哈哈:smile:
-
 https://gaowenxin95.github.io/demo-book/
 
 - 我个人忘东西挺快的，还是多做笔记多复习吧
 
 - 感谢赛赛教我部署
+- 更多信息参考李的技术文档
+http://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/bookdown.html
